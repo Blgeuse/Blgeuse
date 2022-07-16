@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### 📫 How to reach me:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AkhmedRl)
+![ram4zanov.akhmed@yandex.ru](https://img.shields.io/badge/-ram4zanov.akhmed@yandex.ru-090909?style=for-the-badge&logo=Mail.Ru&logoColor=27A0D9)
+
+### ✨ Languages and Tools:
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)
+![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=Vue.js)
+
 <!--
 **Blgeuse/Blgeuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
